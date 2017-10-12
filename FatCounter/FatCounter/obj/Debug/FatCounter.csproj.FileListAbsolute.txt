@@ -1,0 +1,6 @@
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\bin\Debug\FatCounter.exe.config
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\bin\Debug\FatCounter.exe
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\bin\Debug\FatCounter.pdb
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\obj\Debug\FatCounter.csprojResolveAssemblyReference.cache
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\obj\Debug\FatCounter.exe
+c:\users\timothy.chan\documents\visual studio 2015\Projects\FatCounter\FatCounter\obj\Debug\FatCounter.pdb
